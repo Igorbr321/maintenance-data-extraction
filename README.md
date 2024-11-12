@@ -1,4 +1,4 @@
-### 🚒 Projeto de Extração de Dados dos Bombeiros 🚒
+### 🚒 Projeto de Extração de Dados de Manutenção do Corpo de Bombeiros 🚒
 
 Este projeto é uma aplicação de Web Scrapping utilizando ETL para extrair dados do site de manutenções relizadas por Bombeiros e salvá-los em um arquivo CSV. 
 A aplicação inclui uma interface gráfica desenvolvida com a biblioteca ttkbootstrap, que facilita a interação do usuário para inserir a URL do site e o nome da tabela.
