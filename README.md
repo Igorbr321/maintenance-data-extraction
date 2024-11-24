@@ -4,10 +4,10 @@
 Este projeto é uma aplicação de ETL (Extract, Transform, Load) que utiliza Web Scraping com a biblioteca Requests para a extração de dados sobre manutenções realizadas por Bombeiros. Na etapa de transformação (Transform), é aplicado Data Wrangling para estruturar e tratar os dados extraídos. Por fim, na etapa de carregamento (Load), os dados tratados são armazenados em um arquivo CSV. O projeto também conta com uma interface gráfica desenvolvida com a biblioteca ttkbootstrap, permitindo ao usuário inserir a URL do site e o nome da tabela.
 
 
-🔍 Visão Geral do Projeto
+🔍 Visão Geral do Projeto <br>
 O projeto é estruturado em três componentes principais, detalhados abaixo:
 
-🖥️ Interface Gráfica
+🖥️ Interface Gráfica <br>
 Uma interface intuitiva, desenvolvida com ttkbootstrap, que permite ao usuário:
 
 - Inserir a URL do site de manutenções.
