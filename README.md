@@ -1,7 +1,7 @@
 ### Projeto de Coleta e Registro de Dados sobre Manutenções do Corpo de Bombeiros 🚒
 
-Este projeto é uma aplicação de Web Scrapping utilizando ETL para extrair dados do site de manutenções relizadas por Bombeiros e salvá-los em um arquivo CSV. 
-A aplicação inclui uma interface gráfica desenvolvida com a biblioteca ttkbootstrap, que facilita a interação do usuário para inserir a URL do site e o nome da tabela.
+
+Este projeto é uma aplicação de ETL (Extract, Transform, Load) que utiliza Web Scraping com a biblioteca Requests para a extração de dados sobre manutenções realizadas por Bombeiros. Na etapa de transformação (Transform), é aplicado Data Wrangling para estruturar e tratar os dados extraídos. Por fim, na etapa de carregamento (Load), os dados tratados são armazenados em um arquivo CSV. O projeto também conta com uma interface gráfica desenvolvida com a biblioteca ttkbootstrap, permitindo ao usuário inserir a URL do site e o nome da tabela.
 
 
 🔍 Visão Geral
