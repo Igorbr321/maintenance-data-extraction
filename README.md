@@ -23,14 +23,14 @@ Uma interface intuitiva, desenvolvida com ttkbootstrap, que permite ao usuário:
 📦 Script de Empacotamento
 Utiliza cx_Freeze para gerar um executável da aplicação, facilitando a distribuição sem a necessidade de instalar dependências manualmente:
 
-Dependências:
-Define os pacotes necessários, como os, ttkbootstrap, tkinter, requests, bs4 e csv, no parâmetro build_exe_options.
+- Dependências:
+  Define os pacotes necessários, como os, ttkbootstrap, tkinter, requests, bs4 e csv, no parâmetro build_exe_options.
 
-Base para Aplicação GUI:
-Configura a base Win32GUI para garantir que a aplicação gráfica não exiba o console durante a execução no Windows.
+- Base para Aplicação GUI:
+  Configura a base Win32GUI para garantir que a aplicação gráfica não exiba o console durante a execução no Windows.
 
-Empacotamento do Executável:
-Define interface_grafica.py como ponto de entrada, gerando o executável ProjetoBombeiros.exe.
+- Empacotamento do Executável:
+  Define interface_grafica.py como ponto de entrada, gerando o executável ProjetoBombeiros.exe.
 
-Portabilidade:
-Gera um executável autossuficiente, permitindo a execução em diferentes sistemas sem a necessidade de instalar o Python ou bibliotecas adicionais.
+- Portabilidade:
+  Gera um executável autossuficiente, permitindo a execução em diferentes sistemas sem a necessidade de instalar o Python ou bibliotecas adicionais.
