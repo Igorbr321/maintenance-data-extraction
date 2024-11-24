@@ -20,7 +20,7 @@ Uma interface intuitiva, desenvolvida com ttkbootstrap, que permite ao usuário:
 - Aplica técnicas de Data Wrangling na etapa de transformação, garantindo que os dados estejam limpos e organizados.
 - Armazena os dados tratados em um arquivo CSV pronto para análise ou integração com outros sistemas.
 
-📦 Script de Empacotamento
+📦 Script de Empacotamento <br>
 Utiliza cx_Freeze para gerar um executável da aplicação, facilitando a distribuição sem a necessidade de instalar dependências manualmente:
 
 - Dependências:
